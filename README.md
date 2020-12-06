@@ -1,8 +1,8 @@
 ### Experience:
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23e9d54c?logo=javascript&logoColor=white&style=flat-square)
-![Python](https://img.shields.io/badge/-Python-%230075a8?logo=python&logoColor=white&style=flat-square)
-![HTML](https://img.shields.io/badge/-HTML-%23de4b25?logo=html5&logoColor=white&style=flat-square)
-![CSS](https://img.shields.io/badge/-CSS-%230174b8?logo=css3&logoColor=white&style=flat-square)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23000125?logo=javascript&logoColor=white&style=flat-square)
+![Python](https://img.shields.io/badge/-Python-%23000125?logo=python&logoColor=white&style=flat-square)
+![HTML](https://img.shields.io/badge/-HTML-%23000125?logo=html5&logoColor=white&style=flat-square)
+![CSS](https://img.shields.io/badge/-CSS-%23000125?logo=css3&logoColor=white&style=flat-square)
 
 * Learning C++
 * Using Python/JavaScript for most of my projects
