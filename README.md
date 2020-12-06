@@ -10,6 +10,6 @@
 
 
 ### Stats:
-![stats1](https://github-readme-stats.vercel.app/api?username=YXVndXN0&show_icons=true&count_private=true&title_color=ffc0cb&icon_color=ffc0cb)
+![stats1](https://github-readme-stats.vercel.app/api?username=YXVndXN0&show_icons=true&count_private=true&title_color=000125&icon_color=000125)
 
-![stats2](https://komarev.com/ghpvc/?username=YXVndXN0&style=flat&color=ffc0cb)
+![stats2](https://komarev.com/ghpvc/?username=YXVndXN0&style=flat&color=000125)
